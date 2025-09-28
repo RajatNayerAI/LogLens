@@ -1,0 +1,86 @@
+2025-09-28 16:56:15.995 [info] [Window] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-09-28 16:56:16.162 [info] [Window] Started initializing default profile extensions in extensions installation folder. file:///c%3A/Users/rajat/.vscode/extensions
+2025-09-28 16:56:16.342 [info] [Window] Completed initializing default profile extensions in extensions installation folder. file:///c%3A/Users/rajat/.vscode/extensions
+2025-09-28 16:56:16.642 [info] [Window] Started local extension host with pid 28028.
+2025-09-28 16:56:16.891 [info] [Cloud Changes] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2025-09-28 16:56:16.985 [info] [Window] Settings Sync: Account status changed from uninitialized to unavailable
+2025-09-28 16:56:21.334 [info] [Window] [perf] Render performance baseline is 29ms
+2025-09-28 16:59:47.619 [error] [Window] [chat setup] signIn: error Error: Cancelled
+2025-09-28 17:00:12.081 [warning] [Window] [GitHub.copilot]: Cannot register 'github.copilot.advanced'. This property is already registered.
+2025-09-28 17:00:13.040 [error] [Window] [Extension Host] (node:28028) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `Code --trace-warnings ...` to show where the warning was created)
+2025-09-28 17:00:16.179 [warning] [Window] Failed to update in-progress status for chat session type 'claude-code': Can not find provider for claude-code
+2025-09-28 17:02:10.229 [error] [Network] #16: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/eamodio/gitlens/latest - error GET Canceled
+2025-09-28 17:02:10.230 [error] [Network] #17: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-windows-ai-studio/windows-ai-studio/latest - error GET Canceled
+2025-09-28 17:02:10.231 [error] [Window] Cancelled: Canceled: Canceled
+    at BJe.O (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:36522)
+    at async BJe.N (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:35251)
+    at async BJe.D (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:24251)
+    at async vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:23722
+    at async Promise.all (index 1)
+    at async BJe.C (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:23673)
+    at async BJe.getExtensions (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:22330)
+    at async ndt.getExtensions (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:15150)
+    at async zGs.Rc (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2401:17026)
+    at async zGs.$c (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2401:19670)
+2025-09-28 17:03:07.805 [error] [Window] Unknown: Unknown error while installing extension ms-python.python
+    at Uh.installFromGallery (file:///c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1547)
+2025-09-28 17:03:07.807 [error] [Window] Unknown error while installing extension ms-python.python: Unknown: Unknown error while installing extension ms-python.python
+    at Uh.installFromGallery (file:///c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1547)
+2025-09-28 17:03:58.912 [error] [Window] [Extension Host] (node:28028) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2025-09-28 17:08:27.673 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:10:59.406 [error] [Window] [Extension Host] [fetchCompletions] Unhandled status from server: 400 Bad request: bad request: input array must contain at least one string
+
+2025-09-28 17:11:04.080 [error] [Window] [Extension Host] [fetchCompletions] Unhandled status from server: 400 Bad request: bad request: input array must contain at least one string
+
+2025-09-28 17:13:33.052 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:15:09.365 [error] [Window] [Extension Host] [fetchCompletions] Unhandled status from server: 400 Bad request: bad request: input array must contain at least one string
+
+2025-09-28 17:18:38.304 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:19:39.944 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:21:40.959 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:22:20.509 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:22:46.442 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:23:43.643 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:28:49.087 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:33:54.708 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:39:00.539 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:44:06.190 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:49:11.781 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:54:17.531 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 17:59:22.477 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:01:33.767 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:04:26.509 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:09:30.609 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:14:34.980 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:18:47.988 [error] [Window] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Ag.C (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:426:29219)
+    at Ag.updateChildren (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:426:29000)
+    at qae.value (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2538:33782)
+    at I.C (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.D (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at I.fire (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at EEe.setVisible (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:559:2730)
+    at vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:13938
+    at Array.map (<anonymous>)
+    at jd.setVisible (vscode-file://vscode-app/c:/Users/rajat/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:13929)
+2025-09-28 18:19:13.036 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:19:39.495 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:21:02.640 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:24:36.663 [error] [Window] [Extension Host] [ghostText] Error on ghost text request: FetchError: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND proxy.individual.githubcopilot.com)
+    at fetch (c:\Users\rajat\.vscode\extensions\github.copilot-1.372.0\node_modules\@adobe\helix-fetch\src\fetch\index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cachingFetch (c:\Users\rajat\.vscode\extensions\github.copilot-1.372.0\node_modules\@adobe\helix-fetch\src\fetch\index.js:288:16)
+    at YF.fetch (c:\Users\rajat\.vscode\extensions\github.copilot-1.372.0\lib\src\network\helix.ts:78:22)
+    at lT.fetchWithParameters (c:\Users\rajat\.vscode\extensions\github.copilot-1.372.0\lib\src\openai\fetch.ts:876:26)
+    at lT.fetchAndStreamCompletions (c:\Users\rajat\.vscode\extensions\github.copilot-1.372.0\lib\src\openai\fetch.ts:588:26)
+    at genericGetCompletionsFromNetwork (c:\Users\rajat\.vscode\extensions\github.copilot-1.372.0\lib\src\ghostText\ghostText.ts:171:21) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_CANCEL',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-09-28 18:24:44.534 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:29:19.066 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2025-09-28 18:29:48.766 [error] [Window] An unknown error occurred. Please consult the log for more details.

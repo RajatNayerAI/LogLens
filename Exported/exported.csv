@@ -1,0 +1,6 @@
+line,level,hint,timestamp
+ERROR 2025-09-28 12:02:11 TimeoutError connecting to DB,ERROR,"Unknown issue, needs review",2025-09-28 12:02:11
+ERROR 2025-09-28 12:05:45 Disk write failed /tmp/data,ERROR,"Unknown issue, needs review",2025-09-28 12:05:45
+ERROR 2025-09-28 12:07:12 UnexpectedValueError module payment,ERROR,"Unknown issue, needs review",2025-09-28 12:07:12
+WARN 2025-09-28 12:04:02 Response delayed > 500ms,WARN,"Unknown issue, needs review",2025-09-28 12:04:02
+INFO 2025-09-28 12:01:23 Service api started,INFO,"Unknown issue, needs review",2025-09-28 12:01:23

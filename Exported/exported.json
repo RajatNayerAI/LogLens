@@ -1,0 +1,32 @@
+[
+  {
+    "line": "ERROR 2025-09-28 12:02:11 TimeoutError connecting to DB",
+    "level": "ERROR",
+    "timestamp": "2025-09-28 12:02:11",
+    "hint": "Unknown issue, needs review"
+  },
+  {
+    "line": "ERROR 2025-09-28 12:05:45 Disk write failed /tmp/data",
+    "level": "ERROR",
+    "timestamp": "2025-09-28 12:05:45",
+    "hint": "Unknown issue, needs review"
+  },
+  {
+    "line": "ERROR 2025-09-28 12:07:12 UnexpectedValueError module payment",
+    "level": "ERROR",
+    "timestamp": "2025-09-28 12:07:12",
+    "hint": "Unknown issue, needs review"
+  },
+  {
+    "line": "WARN 2025-09-28 12:04:02 Response delayed > 500ms",
+    "level": "WARN",
+    "timestamp": "2025-09-28 12:04:02",
+    "hint": "Unknown issue, needs review"
+  },
+  {
+    "line": "INFO 2025-09-28 12:01:23 Service api started",
+    "level": "INFO",
+    "timestamp": "2025-09-28 12:01:23",
+    "hint": "Unknown issue, needs review"
+  }
+]

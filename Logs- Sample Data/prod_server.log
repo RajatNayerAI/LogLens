@@ -1,0 +1,11 @@
+INFO 2025-09-28 10:01:23 Service auth started
+WARN 2025-09-28 10:02:11 CPU usage > 85%
+ERROR 2025-09-28 10:03:05 Connection refused: Redis server
+INFO 2025-09-28 10:04:02 User login success: user123
+ERROR 2025-09-28 10:05:45 TypeError: 'NoneType' object is not iterable
+WARN 2025-09-28 10:06:30 High latency detected on API /checkout
+ERROR 2025-09-28 10:07:12 Disk full on /var/log
+INFO 2025-09-28 10:08:00 Cron job backup completed
+ERROR 2025-09-28 10:09:30 OutOfMemoryError: Java heap space
+INFO 2025-09-28 10:10:11 Service payment started
+ERROR 2025-09-28 10:11:42 UnexpectedValueError in module xyz

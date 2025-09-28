@@ -1,0 +1,4 @@
+[INFO] 2025-09-28 11:00:00 AuthService - Initialization complete
+[WARN] 2025-09-28 11:05:01 DBConnection - Connection slow
+[ERROR] 2025-09-28 11:07:15 PaymentService - NullPointerException
+[INFO] 2025-09-28 11:10:00 Scheduler - Job completed
