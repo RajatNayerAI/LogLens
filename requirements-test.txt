@@ -1,0 +1,8 @@
+# Test Requirements
+# Run tests: pytest or python -m pytest
+# Coverage: pytest --cov=Code tests/
+
+pytest>=7.0.0
+pytest-cov>=4.0.0
+coverage>=6.0
+openai>=1.0.0  # For loglens_ai tests
